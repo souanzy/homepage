@@ -1,2 +1,0 @@
-# homepage
-Sou Anzaiのホームページ
